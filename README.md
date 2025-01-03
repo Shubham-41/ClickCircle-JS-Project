@@ -1,6 +1,5 @@
 Here’s a very simple `README.md` file for your project:
 
-```markdown
 # ClickyCircles
 
 A simple web app where you can click anywhere on the screen to create colorful circles with random messages. Fully responsive and fun to interact with!
@@ -15,8 +14,7 @@ A simple web app where you can click anywhere on the screen to create colorful c
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ClickyCircles.git
-   ```
-2. Open `index.html` in your browser.
+
 
 ## Technologies Used
 - HTML
@@ -25,6 +23,5 @@ A simple web app where you can click anywhere on the screen to create colorful c
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-```
 
 Replace `your-username` with your GitHub username. Let me know if you'd like any modifications!
